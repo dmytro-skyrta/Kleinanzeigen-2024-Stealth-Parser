@@ -45,6 +45,6 @@ Inspired by ideas from:
 - Erik Spichak ( youtube.com/@ErikSpichak )
 
 # License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License with Attribution Copyright (c) [2024] [Dmytro Skyrta] - see the LICENSE file for details.
 
 Feel free to contribute to the project by submitting issues or pull requests. Your feedback is highly appreciated!
