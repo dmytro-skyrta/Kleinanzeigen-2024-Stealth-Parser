@@ -28,10 +28,9 @@ pip install -r requirements.txt
 
 # Configuration
 You can customize the user-agent and proxies by modifying the get_from_kleinanzeigen_with_chromedriver function:
-
-useragent = "your-user-agent"
-working_proxies_list = ["proxy1", "proxy2", "proxy3"]
-Logging
+- useragent = "your-user-agent"
+- working_proxies_list = ["proxy1", "proxy2", "proxy3"]
+- Logging
 
 # Logs are saved in two places:
 Console output
