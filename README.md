@@ -33,8 +33,8 @@ You can customize the user-agent and proxies by modifying the get_from_kleinanze
 - Logging
 
 # Logs are saved in two places:
-Console output
-File: Log.txt (rotated at 10 MB and compressed)
+- Console output
+- File: Log.txt (rotated at 10 MB and compressed)
 
 # Credits
 Thanks for the advice on developing this project to:
