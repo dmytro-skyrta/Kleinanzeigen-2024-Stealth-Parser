@@ -38,12 +38,12 @@ Console output
 File: Log.txt (rotated at 10 MB and compressed)
 
 # Credits
-# Thanks for the advice on developing this project to:
-Yevhen Vlasenko
+Thanks for the advice on developing this project to:
+Yevhen Vlasenko ( github.com/yvlasenko )
 
-# Inspired by ideas from:
-Python Today
-Erik Spichak
+Inspired by ideas from:
+Python Today ( github.com/pythontoday )
+Erik Spichak ( youtube.com/@ErikSpichak )
 
 # License
 This project is licensed under the MIT License - see the LICENSE file for details.
