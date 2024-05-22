@@ -12,17 +12,13 @@ Kleinanzeigen 2024 Stealth Parser  is a Python-based project designed to scrape 
 
 # Installation
 To use this tool, you need to have Python installed along with the necessary libraries. Follow the steps below to set it up:
-
-# 1. Clone the repository: 
+1. Clone the repository: 
 "git clone https://github.com/dmytro-skyrta/Kleinanzeigen-2024-Stealth-Parser.git"
 "cd Kleinanzeigen-2024-Stealth-Parser"
-
-# 2. Install the required Python packages: 
+2. Install the required Python packages: 
 pip install -r requirements.txt
-
-# 3. Ensure you have the Chrome browser installed and download the corresponding ChromeDriver.
-
-# 4. Place the chromedriver executable in your system's PATH or in the project directory.
+3. Ensure you have the Chrome browser installed and download the corresponding ChromeDriver.
+4. Place the chromedriver executable in your system's PATH or in the project directory.
 
 # Usage
 1. Run the script: python main_script.py
