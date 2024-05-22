@@ -38,11 +38,11 @@ You can customize the user-agent and proxies by modifying the get_from_kleinanze
 
 # Credits
 Thanks for the advice on developing this project to:
-Yevhen Vlasenko ( github.com/yvlasenko )
+- yvlasenko ( github.com/yvlasenko )
 
 Inspired by ideas from:
-Python Today ( github.com/pythontoday )
-Erik Spichak ( youtube.com/@ErikSpichak )
+- Python Today ( github.com/pythontoday )
+- Erik Spichak ( youtube.com/@ErikSpichak )
 
 # License
 This project is licensed under the MIT License - see the LICENSE file for details.
