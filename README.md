@@ -38,7 +38,7 @@ You can customize the user-agent and proxies by modifying the get_from_kleinanze
 
 # Credits
 Thanks for the advice on developing this project to:
-- yvlasenko ( github.com/yvlasenko )
+- Yuriy Vlasenko ( github.com/yvlasenko )
 
 Inspired by ideas from:
 - Python Today ( github.com/pythontoday )
